@@ -12,6 +12,8 @@ export default {
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
+        'dm-serif': ['"DM Serif Display"', 'serif'],
+        'press-start': ['"Press Start 2P"', 'system-ui'],
       },
     },
   },
